@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "@babel/env",
+    "@babel/typescript"
+  ],
+  "plugins": [
+    "@babel/plugin-syntax-jsx",
+    "transform-vue-jsx"
+  ]
+}
